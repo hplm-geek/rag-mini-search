@@ -1,0 +1,28 @@
+Transcript 11 — Intro Call
+Prospect: Sandra B.
+Industry: Virtual CFO Services
+Date: 2024-09-25
+
+Sean: Sandra, what's going on in the business right now?
+
+Sandra: I offer fractional CFO services to small business owners — typically companies doing $1M to $5M in revenue who need financial strategy but can't afford a full-time CFO. I have nine clients right now which is my max, but I want to build a model that could scale to 15 without me working more hours.
+
+Sean: What's standing between you and that?
+
+Sandra: Everything is in my head. Every client has a slightly different engagement structure, different reporting cadence, different tools. I carry all of that context in memory. When I onboard a new client it takes me three to four weeks to feel stable. That's too long.
+
+Sean: What does your current onboarding look like?
+
+Sandra: It's a kickoff call, then I send a list of what I need from them — in an email I write each time. Then I start poking around their books. There's no standard intake document, no checklist, no defined scope of the first 30 days.
+
+Sean: Have you tried templating any of it?
+
+Sandra: I started a checklist once. It's sitting in a Google Doc I haven't opened in four months. The problem is every client feels different enough that I convince myself a template won't work.
+
+Sean: That's a very common trap. The variation is usually in the details — the underlying workflow is almost always more consistent than it feels from inside it. The template works at the process level even when the specifics vary.
+
+Sandra: You're probably right. I've just never had someone help me see the pattern across my own engagements.
+
+Sean: That's exactly the work. Once you can see the consistent structure underneath, the template writes itself — and onboarding time drops significantly.
+
+Sandra: If I could get onboarding down to a week I could realistically take on three more clients without adding hours.

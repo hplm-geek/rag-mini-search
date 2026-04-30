@@ -1,0 +1,26 @@
+Transcript 12 — Intro Call
+Prospect: Alicia N.
+Industry: Brand Strategy Consulting
+Date: 2024-10-03
+
+Sean: Alicia, thanks for your time. What made you want to have this conversation?
+
+Alicia: I saw your content on LinkedIn about systems and it resonated. I'm a brand strategist — mostly working with funded startups and growth-stage companies. The work is great. My business infrastructure is a disaster.
+
+Sean: Tell me what disaster looks like.
+
+Alicia: I send invoices late — sometimes by two or three weeks — because I don't have a trigger that reminds me when a project milestone is hit. I've had clients ask me where their invoice is and that's humiliating. It's not a cash flow issue, it's an operations issue.
+
+Sean: What else?
+
+Alicia: My project management is split across Asana and my inbox. Some tasks live in one, some in the other, and I can't see the full picture in one place. And I've been meaning to build a client portal for two years and it just never happens.
+
+Sean: What about AI — are you using any of it in your work?
+
+Alicia: Yes, actually — I use Claude for strategic frameworks and first-draft positioning work. It's been genuinely useful for that. But the operational side of my business, I haven't figured out how to make AI help there.
+
+Sean: The operational side is actually where AI has the most leverage — once the underlying process is designed. Right now if there's no defined invoicing trigger, there's nothing for AI to automate. The design comes first.
+
+Alicia: That's a missing piece I hadn't named. I've been trying to automate chaos instead of designing the process and then automating it.
+
+Sean: Exactly. And the design part is usually faster than people expect.

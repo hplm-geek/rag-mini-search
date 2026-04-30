@@ -1,0 +1,28 @@
+Transcript 09 — Intro Call
+Prospect: Kim L.
+Industry: UX / Product Consulting
+Date: 2024-08-08
+
+Sean: Kim, what are you working on right now?
+
+Kim: I'm a UX consultant, mostly working with early-stage product teams on research and design strategy. Independent for three years. Things are going well on the client side but I'm running what I'd call a very messy back end.
+
+Sean: Messy how?
+
+Kim: I have a detailed process for client work — discovery, research, synthesis, recommendations. Very structured. But my business itself? I track leads in a spreadsheet I made in 2021 that I've never updated properly. Invoicing is manual. Project scoping calls have no consistent intake. Every engagement starts with a bespoke setup.
+
+Sean: Where does the most time get lost?
+
+Kim: Scoping calls and proposals. I spend a lot of time in early conversations gathering information I've gathered a hundred times before. And then writing proposals that could be templatized but aren't.
+
+Sean: Have you thought about what a templatized version would look like?
+
+Kim: Yes, actually. I know exactly what information I need from every client. I just never built the form or the intake flow to collect it systematically. I keep meaning to and then a project comes in and it gets pushed.
+
+Sean: What's held you back from doing it yourself?
+
+Kim: Honestly? Every time I sit down to do it I get too deep in the details and run out of energy. I need someone to sit with me and actually get it done rather than just advise me on what to build.
+
+Sean: That's the forward-deployed model I use. We don't just design it — we build it and I stay until it's working.
+
+Kim: That's the first time someone's described it that way. That's exactly what I need.

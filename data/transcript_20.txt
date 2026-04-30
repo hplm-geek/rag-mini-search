@@ -1,0 +1,34 @@
+Transcript 20 — Intro Call
+Prospect: Tasha R.
+Industry: Life Coaching / Mindset
+Date: 2024-09-30
+
+Sean: Tasha, what are you working on?
+
+Tasha: I'm a certified life coach — I work mostly with women in midlife transitions. Career changes, divorce, empty nest, that kind of thing. I have a small group program and a few one-on-one clients.
+
+Sean: What's the challenge you're looking to solve?
+
+Tasha: I'm at a place where I know I want to grow but I feel stuck in the weeds. Every week feels like I'm starting over. I don't feel like I'm building momentum even though I'm working constantly.
+
+Sean: Where does the time go?
+
+Tasha: Admin, honestly. Between scheduling, follow-ups, content creation, onboarding new clients — I spend more time on the business than on the actual coaching. And the coaching is the part I'm good at and that generates the revenue.
+
+Sean: What does your tech stack look like?
+
+Tasha: I have Calendly, a Mailchimp account I barely use, a Teachable site for my group program, and Canva for social graphics. I recently started using AI for writing captions, which has saved some time.
+
+Sean: Are those tools connected to each other in any way?
+
+Tasha: Not really. Someone new books a call, it shows up in Calendly, and then I manually send them a welcome email. I have to remember to add them to Mailchimp. Nothing is automatic.
+
+Sean: So every new client or prospect creates manual tasks — and those tasks don't have a system to catch them, just your memory.
+
+Tasha: Yes. And my memory is full. I'm dropping things that I'm not even aware I've dropped until a client mentions something I forgot.
+
+Sean: What you're describing is a workflow that grew organically and was never designed. The fixes are almost always simpler than people expect. We'd start with the intake and onboarding flow — the first 72 hours after someone books with you. Make just that automatic and consistent.
+
+Tasha: That would take so much out of my head. I didn't know that's even something someone could help me with. I thought I just needed to be more organized.
+
+Sean: It's not a discipline problem. It never is. It's a design problem.

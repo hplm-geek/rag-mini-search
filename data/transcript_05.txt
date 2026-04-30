@@ -1,0 +1,28 @@
+Transcript 05 — Intro Call
+Prospect: Priya K.
+Industry: DEI Consulting
+Date: 2024-10-15
+
+Sean: Priya, tell me what's happening in your practice right now.
+
+Priya: I've been consulting on DEI strategy for mid-size companies for about three years. I'm at a point where I want to grow but I feel like everything is still very custom, very manual. Every client engagement starts from scratch.
+
+Sean: Can you give me an example?
+
+Priya: Sure. Proposal process. Every single proposal is me, starting with a blank doc, pulling from memory and old files. It takes me four to six hours per proposal. And they end up looking different each time, which I don't love from a brand perspective.
+
+Sean: So there's no repeatable framework you're building on — even though the underlying logic is probably similar across clients.
+
+Priya: Exactly. My actual consulting methodology is pretty structured. But my business operations don't reflect that at all. There's a disconnect between how thoughtful I am in client work versus how reactive my own business is.
+
+Sean: What does your current tech stack look like?
+
+Priya: I have a CRM I barely use, Notion for project notes, Canva for client materials, and about four running Google Docs that are sort of like a knowledge base but not really.
+
+Sean: What's your biggest fear about trying to fix this?
+
+Priya: Honestly? That I'll invest time building something and it won't get used. I've done that before. I'm also not technical. I need something I can actually maintain without asking for help every week.
+
+Sean: That's the most common thing I hear. The systems that stick are the ones built for how you actually work — not for how you're supposed to work. And they don't require you to be technical to maintain them.
+
+Priya: If that's true, I'm ready to hear more.

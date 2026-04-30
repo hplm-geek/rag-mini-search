@@ -1,0 +1,24 @@
+Transcript 06 — Intro Call
+Prospect: Tom W.
+Industry: Marketing Agency (Solo Operator)
+Date: 2024-07-30
+
+Sean: Tom, what's going on that made you want to have this conversation?
+
+Tom: I've been running a one-person marketing agency for six years. Mostly B2B clients, content strategy and demand gen. Things are steady but I'm tired. Like deeply tired. And I don't think it's the work itself — I think it's the overhead.
+
+Sean: What does the overhead look like?
+
+Tom: Client reporting takes me half a day every week. Not because the data isn't there — it's there, in five different tools. But I'm manually pulling it together each time. Same with onboarding new clients — there's a whole set of tasks that I do by memory each time, and sometimes I forget something and it creates a downstream problem.
+
+Sean: What about AI tools — have you explored those?
+
+Tom: I've tried a few. I use Claude for some copywriting, which is great. But when I tried to use it for anything operational it kind of fell apart because there's no real system for it to work within. I read about people automating their whole workflow and I feel like I'm missing something fundamental.
+
+Sean: You're not missing a tool. You're missing the architecture the tools plug into. AI is genuinely useful once the workflow is designed — it amplifies a good system. On a broken one, it just moves the chaos faster.
+
+Tom: That's a really clear way to put it. That's exactly what I've been experiencing.
+
+Sean: The reporting workflow you mentioned — that alone is probably worth fixing first. If that's taking half a day every week, getting it to 45 minutes would free up meaningful time and energy immediately.
+
+Tom: Half a day to 45 minutes would be life-changing, honestly.

@@ -1,0 +1,24 @@
+Transcript 10 — Intro Call
+Prospect: Derek O.
+Industry: Leadership Training / L&D
+Date: 2024-10-28
+
+Sean: Derek, what's the context for this conversation?
+
+Derek: I deliver leadership training for corporate clients — workshops, cohort programs, that kind of thing. I left my HR director role three years ago to do this full-time. Revenue is solid. But I feel like I'm rebuilding the plane every time I fly it.
+
+Sean: What does that look like day to day?
+
+Derek: Program prep takes me too long because I can't find my own materials efficiently. I have slide decks across three versions, facilitator notes that contradict each other, and a Google Drive that looks like a filing cabinet that exploded. I waste at least an hour before every program just getting organized.
+
+Sean: What about the client relationship side?
+
+Derek: Follow-through is inconsistent. I do a good job in the room. Post-program I send a survey and a summary — but that process is manual and it only happens if I remember. I had a client last month ask me for data from a session I delivered in March and I had to dig through my email for 20 minutes.
+
+Sean: So you have valuable intellectual property and client history — it's just not organized in a way that's retrievable.
+
+Derek: That's a good way to put it. I've thought about using AI to help me but I don't know where to start. I tried uploading a deck to ChatGPT once and asking questions about it. That kind of worked but it wasn't systematic.
+
+Sean: The retrieval problem you're describing is actually a classic knowledge management challenge. Before AI can help you meaningfully, the underlying organization has to make sense. Right now you're asking a smart assistant to navigate a messy room.
+
+Derek: That metaphor makes a lot of sense. I've been trying to solve it with more AI when I should be solving it with better organization first.

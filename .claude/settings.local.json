@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import ast, pathlib; [ast.parse\\(p.read_text\\(\\)\\) for p in pathlib.Path\\('/Users/seano/Documents/z-GitHub-Base/Learning/claudeCode/rag-mini-search'\\).glob\\('**/*.py'\\)]; print\\('All .py files parse OK'\\)\")"
+    ]
+  }
+}

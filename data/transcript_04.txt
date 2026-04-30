@@ -1,0 +1,28 @@
+Transcript 04 — Intro Call
+Prospect: James P.
+Industry: Executive Search / Recruiting
+Date: 2024-08-22
+
+Sean: James, what's going on in your world right now?
+
+James: I run a boutique exec search firm — just me and one part-time researcher. We do well but I've hit a ceiling. I can't take on more searches without dropping quality, and I can't grow without building something more systematic.
+
+Sean: Where does it break down currently?
+
+James: Candidate tracking is a mess. I use LinkedIn Recruiter, a spreadsheet, and my own memory. My researcher and I are constantly out of sync. Last month I accidentally reached out to a candidate I'd already declined six months ago. That's the kind of thing that shouldn't happen.
+
+Sean: What about your client communication side?
+
+James: Even worse. Status updates are ad hoc. I send them when I remember. A client asked me for a search summary last week and I had to reconstruct it from my inbox.
+
+Sean: Have you looked at ATS platforms?
+
+James: I trialed two. They're built for agencies with 15 recruiters. Way too heavy. I don't need enterprise software — I need something clean that the two of us can actually use and maintain.
+
+Sean: That's exactly the pattern. Off-the-shelf tools are often built for scale you don't have yet. What you need is a lightweight system designed around your actual search workflow — not a generic recruiting process.
+
+James: That's a relief to hear. I was starting to think I'd have to just hire more people to manage the chaos.
+
+Sean: You might need people eventually. But right now you need the system first — or whoever you hire just inherits the chaos.
+
+James: That's a really good point. I hadn't thought of it that way.

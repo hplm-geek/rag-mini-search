@@ -1,0 +1,28 @@
+Transcript 13 — Intro Call
+Prospect: Neil F.
+Industry: Management Consulting (Independent)
+Date: 2024-07-17
+
+Sean: Neil, what's going on in your world?
+
+Neil: I spent 18 years at a large consultancy. Left two years ago to go independent. I have strong client relationships, good project flow, but I miss having an ops team. I never had to think about how proposals got filed or how client documents were organized. Someone else managed all of that.
+
+Sean: And now you're that person.
+
+Neil: Now I'm that person. And I'm not very good at it, honestly. I've been brute-forcing it with effort. Working longer hours than I did in corporate, which was already a lot.
+
+Sean: What's taking the most time?
+
+Neil: Knowledge management. I produce a lot of client-facing work — frameworks, analyses, recommendations. But I have no good way to find and reuse what I've built. Every engagement I'm starting close to zero when I should be leveraging years of prior work.
+
+Sean: So the intellectual capital exists — it's just not retrievable.
+
+Neil: That's exactly it. I've been thinking about this as a search problem. Like if I could just search across my own work the way you'd search the internet, that would solve half my problem.
+
+Sean: Interesting you put it that way. The technical solution for that exists — it's essentially what knowledge retrieval tools do. But before the tool, you need the organization that makes retrieval meaningful. Both things have to be true.
+
+Neil: I didn't realize there was a systematic way to approach that. I thought I just needed a better filing system.
+
+Sean: A filing system is part of it. But the architecture — deciding what gets captured, how it's tagged, and how you retrieve it — that's the design work that makes the filing system actually useful.
+
+Neil: I need that conversation. This is the most useful framing I've heard in two years.

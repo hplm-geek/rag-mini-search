@@ -1,0 +1,28 @@
+Transcript 19 — Intro Call
+Prospect: Greg T.
+Industry: Cybersecurity Consulting
+Date: 2024-08-29
+
+Sean: Greg, what's the context for this conversation?
+
+Greg: I do cybersecurity consulting for small and mid-size businesses — mostly risk assessments, compliance readiness, incident response planning. Independent for three years after leaving a corporate security role.
+
+Sean: What's the business challenge right now?
+
+Greg: Delivery inconsistency. I've done about 40 risk assessments at this point. Every one of them has been slightly different because I haven't formalized my methodology. I'm good at the work but I'm essentially reinventing the process each time, which is inefficient and creates quality variation I don't love.
+
+Sean: What does reinventing look like?
+
+Greg: I have a general framework in my head. But when I start a new assessment I'm pulling from old reports, old checklists, bits of methodology I've documented in different places over time. It takes me a day of setup before I even start the client-facing work.
+
+Sean: What would a formalized version look like?
+
+Greg: A repeatable assessment kit. Standard data collection template, interview questions that are consistent, a scoring framework that's documented, a report template that just needs client-specific findings dropped in. I've thought about building it for two years.
+
+Sean: What's stopped you?
+
+Greg: Honestly? Every time I sit down to do it I have a client engagement that needs attention. The billable work always wins. And I keep thinking I'll do it between projects but the gaps are never as long as I plan.
+
+Sean: That's the classic infrastructure debt problem. The system that would give you time is the thing you don't have time to build. That's exactly what a focused outside engagement can break. You do the client work — I sit with you and extract the methodology.
+
+Greg: If someone could just take that out of my head and put it somewhere usable, I would pay for that immediately.

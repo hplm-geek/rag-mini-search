@@ -1,0 +1,28 @@
+Transcript 18 — Intro Call
+Prospect: Mei L.
+Industry: Fractional HR / People Ops
+Date: 2024-11-08
+
+Sean: Mei, tell me about your work.
+
+Mei: I'm a fractional HR and people ops consultant. I work with startups from Series A to Series C that need HR leadership but aren't ready for a full-time CHRO. Usually I'm embedded 10-15 hours a week across two or three clients.
+
+Sean: What's the challenge right now?
+
+Mei: Context switching is brutal. I'm moving between clients constantly and every one has different tools, different cadences, different cultures. I spend the first 20 minutes of any work block just getting back into the right context.
+
+Sean: What does your personal system look like for managing that?
+
+Mei: Honestly? It's mostly in my head. I have a weekly review I do on Sunday nights where I prep for each client. But it takes two hours and I resent it because it's such a manual process. I'm basically rebuilding my mental model of each client from scratch every week.
+
+Sean: Are you using AI tools at all in your workflow?
+
+Mei: I just started. I've been using Claude to help draft HR policies and job descriptions. That's been useful. I haven't figured out how to use it for the context problem though.
+
+Sean: The context problem is solvable but it requires a structured knowledge base for each client — not just notes, but organized context that you can load quickly. Right now your Sunday review is doing the work that a system should be doing.
+
+Mei: I've thought about building something like a client brief document for each engagement. But I never get around to making it actually useful.
+
+Sean: That's usually a design problem — not a discipline problem. The brief needs the right structure to be load-able quickly. Most people build documents that are comprehensive but not fast to parse.
+
+Mei: Fast to parse. That's the thing. I need to be able to get oriented in five minutes, not 20.

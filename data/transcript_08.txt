@@ -1,0 +1,28 @@
+Transcript 08 — Intro Call
+Prospect: Rafael C.
+Industry: Financial Advisory (Independent)
+Date: 2024-11-12
+
+Sean: Rafael, thanks for being here. What's prompting the conversation?
+
+Rafael: I'm an independent financial advisor — fee-only, fiduciary model. I split from a larger firm about two years ago to go out on my own. Best professional decision I ever made but the operational side has been harder than I expected.
+
+Sean: What does hard look like specifically?
+
+Rafael: Client communication is inconsistent. At the firm there was a whole compliance and operations team handling that. Now it's me. I miss check-ins. I have clients I haven't touched in 90 days not because I don't care but because nothing surfaces them.
+
+Sean: Any CRM in place?
+
+Rafael: Redtail. But I set it up in the first month and never really built it out properly. It has client records but no real workflow attached to it. It's basically an expensive address book.
+
+Sean: What about the planning and deliverable side?
+
+Rafael: I'm okay there — that's the actual advisory work, I'm strong on that. It's the business operations layer. Scheduling, follow-ups, onboarding, the annual review process. Each one is a slightly different version of something I do in my head.
+
+Sean: So the advisory capability is solid. The scaffolding around it isn't.
+
+Rafael: Exactly. And it's starting to affect growth. I know I should be asking for referrals more consistently but I don't even have a systematic way to follow up with existing clients let alone a referral workflow.
+
+Sean: The referral workflow actually lives downstream of the client communication system. Fix one and the other becomes possible. That's usually a good place to start.
+
+Rafael: I hadn't connected those two things. That's helpful framing.

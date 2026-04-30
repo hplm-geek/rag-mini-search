@@ -1,0 +1,28 @@
+Transcript 16 — Intro Call
+Prospect: Yolanda M.
+Industry: Nonprofit Consulting
+Date: 2024-09-11
+
+Sean: Yolanda, what's your practice focused on?
+
+Yolanda: I help small nonprofits with strategic planning and organizational development. Most of my clients are organizations with budgets under $2M — executive directors who wear too many hats and need outside strategic support.
+
+Sean: What's the challenge you're trying to solve in your own business?
+
+Yolanda: It's a little ironic — I help organizations get more structured, but my own consulting practice is not very structured. My proposal process is completely manual. My scope documents are inconsistent. And I've never really systematized how I deliver the work.
+
+Sean: What does delivery look like today?
+
+Yolanda: Every engagement is a custom project plan I create in Google Docs. I start from a vague template I made two years ago and modify it heavily. It works but it takes too long to set up and the quality varies depending on how busy I am.
+
+Sean: Have you used AI tools at all?
+
+Yolanda: I tried ChatGPT for writing drafts — board reports, proposal sections. It was okay. But I felt like I was always fighting it because it didn't know anything about my methodology or my clients. I'd get generic output and have to heavily edit it.
+
+Sean: That's the context problem. AI output is only as good as the context you provide. If your methodology isn't documented in a usable form, there's nothing to feed it.
+
+Yolanda: So I need to document my methodology before AI can actually help me use it?
+
+Sean: Basically yes. The documentation is the foundation. Once it exists, AI becomes a real accelerant. Before it exists, you're just prompting into a void.
+
+Yolanda: I hadn't thought about it that sequence. That's clarifying.

@@ -1,0 +1,26 @@
+Transcript 07 — Intro Call
+Prospect: Angela S.
+Industry: Career Coaching
+Date: 2024-09-05
+
+Sean: Angela, what's the main thing you want to get out of today?
+
+Angela: I want to understand if what you do applies to me. I'm a career coach. I work with mid-career professionals going through transitions — layoffs, career pivots, that kind of thing. I don't think of myself as a tech person at all, and a lot of the AI conversation I see feels like it's for developers or tech founders. Not for someone like me.
+
+Sean: That's actually the clearest version of who I work with. What's feeling hardest right now?
+
+Angela: I have 18 active clients. I keep their notes in a mix of Google Docs and my own memory. I find myself thinking about client situations at 11pm because I'm worried I'll forget something before our next session. I don't have a clean system for tracking where each person is in their journey.
+
+Sean: And intake — how does that work?
+
+Angela: Manually. I send a welcome email I wrote two years ago that I copy from a sent mail folder. The intake questionnaire is a Google Form but the responses don't go anywhere useful. I just open it and read it before the first call.
+
+Sean: So data is being collected but not organized into anything actionable.
+
+Angela: Yes. And I keep telling clients they need systems in their job search — like tracking outreach, follow-ups, target companies — and here I am with no real system of my own. It feels a little hypocritical.
+
+Sean: Self-awareness is actually the first step. The good news is nothing you've described is complicated to fix. It's just not been designed yet.
+
+Angela: You don't think I need to be technical?
+
+Sean: Not for what you're describing. We're talking about workflows, not code. You design the logic — I help make sure it actually holds.

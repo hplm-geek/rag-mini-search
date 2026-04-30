@@ -1,0 +1,28 @@
+Transcript 02 — Intro Call
+Prospect: Marcus T.
+Industry: SaaS Consulting
+Date: 2024-09-18
+
+Sean: Good to connect, Marcus. What's the main thing you're trying to solve right now?
+
+Marcus: Okay so I consult for early-stage SaaS companies on go-to-market. I've got six active clients, which is more than I've ever had. And I'm dropping balls. Not big ones yet, but I can feel it coming.
+
+Sean: What kind of balls?
+
+Marcus: Like — a client asked me last week to pull a deliverable I sent them in August and I couldn't find it in under five minutes. It was embarrassing. I've got files across Google Drive, email threads, Slack, and a project management tool I set up and barely use. Nothing talks to anything.
+
+Sean: So context-switching cost you there — not capability.
+
+Marcus: Right. And it's happening more as I scale. Every new client adds more surface area. I've been telling myself I'll organize everything when things slow down but they're not slowing down.
+
+Sean: What tools are you currently relying on most?
+
+Marcus: Notion for notes, Slack for async comms, Google Drive for deliverables, HubSpot for CRM — kind of. I don't really maintain it. And I just started trying out AI tools. I've been using ChatGPT to help with proposal drafts but it doesn't really know anything about my clients so I'm basically re-briefing it every time.
+
+Sean: So the AI is only as good as the context you give it, and that context isn't stored anywhere structured.
+
+Marcus: Exactly. I feel like I'm leaving a lot of leverage on the table but I don't know where to start.
+
+Sean: The starting point is usually simpler than people expect. It's rarely all the tools. It's almost always one core workflow that everything else runs through — and right now yours doesn't exist in a form that's usable.
+
+Marcus: I've suspected that. I just needed someone to say it.
