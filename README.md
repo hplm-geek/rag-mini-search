@@ -13,12 +13,20 @@ The corpus is 20 plain-text sales call transcripts in `data/`.
 
 ```bash
 # 1. Create and activate a virtual environment
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate       # Windows: .venv\Scripts\activate
+```
 
+> **Tip:** After activation, your prompt should show `(.venv)` at the start.
+> Confirm before running any further commands — if it's missing, the venv isn't active.
+
+```bash
 # 2. Install dependencies
 pip install -r requirements.txt
 ```
+
+> **Note:** pip may suggest upgrading itself after install. You can run
+> `pip install --upgrade pip` at any point — it won't affect the project.
 
 > **Note:** The vector model (`all-MiniLM-L6-v2`, ~80 MB) is downloaded automatically
 > from Hugging Face on the first vector search run. No API key required.
@@ -29,19 +37,19 @@ pip install -r requirements.txt
 
 ```bash
 # Run both modes (default)
-python main.py "your query here"
+python3 main.py "your query here"
 
 # Keyword only
-python main.py "your query here" --mode keyword
+python3 main.py "your query here" --mode keyword
 
 # Vector only
-python main.py "your query here" --mode vector
+python3 main.py "your query here" --mode vector
 
 # Control number of results returned
-python main.py "your query here" --top 10
+python3 main.py "your query here" --top 10
 
 # Point at a different corpus directory
-python main.py "your query here" --corpus /path/to/docs
+python3 main.py "your query here" --corpus /path/to/docs
 ```
 
 ### Example output
